@@ -1,0 +1,10 @@
+# The path of your applications code
+APP_SRC_PATH=./../src/
+
+NODE_VERSION=8.12
+NODE_NPM_REGISTRY=https://registry.npm.taobao.org
+NODE_PORT=8090
+
+NGINX_VERSION=1.13.12
+NGINX_HOST_HTTP_PORT=8089
+NGINX_HOST_HTTPS_PORT=443
